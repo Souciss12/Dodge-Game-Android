@@ -1,5 +1,7 @@
 # Dodge Game Android
 
+<img alt="Unity Version" src="https://img.shields.io/badge/Unity-2022.3.27f1-blue.svg"> <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Souciss12/Souciss-FPS">
+
 A simple dodge game developed with Unity for Android.
 
 ## Description
